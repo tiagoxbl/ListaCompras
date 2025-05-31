@@ -5,6 +5,7 @@ Este é um programa simples de linha de comando em C para gerenciar uma lista de
 ## Funcionalidades
 
 - Adicionar itens à lista de compras.
+- Remover itens da lista 
 - Exibir todos os itens da lista de compras.
 - Armazenar itens e suas quantidades em um banco de dados SQLite.
 
